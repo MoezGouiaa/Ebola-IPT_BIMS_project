@@ -1,0 +1,37 @@
+/.venv
+/.venv-1
+/Ebola_SEIHFR_Model (1) copy.ipynb
+/Ebola_SEIHFR_Model (1).ipynb
+/Ebola_SEIHFR_Model test  copy 2.ipynb
+/Ebola_SEIHFR_Model test  copy 3.ipynb
+/Ebola_SEIHFR_Model test  copy.ipynb
+/Ebola_SEIHFR_Model test .ipynb
+/Ebola_zaineb_code_modified.ipynb
+/SEIR_SI_migration.png
+/Untitled-1.ipynb
+/data
+/data_2023_clean.xlsx
+/data_2024_clean.xlsx
+/data_2025_clean.xlsx
+/df_all_clean.csv
+/df_all_clean.xlsx
+/ebola_fit_analysis.png
+/fig_R0_sensitivity.pdf
+/fig_calibration.pdf
+/fig_interventions.pdf
+/fig_mobility.pdf
+/fig_mosquito_density.pdf
+/fig_seasonality.pdf
+/fig_validation.pdf
+/final models dengue.ipynb
+/final models malaria.ipynb
+/interpolation_diagnostics.png
+/num_pl_aedes_zorgho.csv
+/observations.ipynb
+/outcmaes
+/sir_migration_dengue.ipynb
+/sir_migration_palu.ipynb
+/smoothed incidence cases data.csv
+/table_params_malaria.tex
+/test.ipynb
+/thiery.ipynb
