@@ -1,6 +1,3 @@
-Here is a GitHub-ready `README.md` that explains the workflow between the two notebooks and how to generate `insp_smoothed_incidence.csv`.
-
----
 
 # Ebola 2026 Outbreak Data Preparation and SEIDdIndFR Modeling
 
@@ -273,14 +270,5 @@ Model Calibration
             │
             ▼
 Forecasts & Epidemiological Analysis
-```
 
----
 
-## Citation
-
-If you use this repository, please cite the BDBV2026 surveillance data source:
-
-[BDBV2026 Data Repository](https://github.com/INRB-UMIE/BDBV2026-Data?utm_source=chatgpt.com)
-
-and acknowledge the Institut National de Recherche Biomédicale (INRB) outbreak reports used to construct the incidence dataset.
