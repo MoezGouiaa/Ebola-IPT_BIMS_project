@@ -13,7 +13,26 @@ insp_smoothed_incidence.csv
 ```
 
 The second notebook uses this processed dataset to calibrate and simulate an Ebola transmission model.
+# Workflow Summary
 
+```text
+Raw BDBV2026 Sitrep Data
+            │
+            ▼
+data preparation from Sitrep.ipynb
+            │
+            ▼
+insp_smoothed_incidence.csv
+            │
+            ▼
+Ebola_SEIDdIndFR_Notebook.ipynb
+            │
+            ▼
+Model Calibration
+            │
+            ▼
+Forecasts & Epidemiological Analysis
+```
 ---
 
 ## Repository Structure
@@ -251,24 +270,5 @@ The model is fitted simultaneously to:
 
 ---
 
-# Workflow Summary
-
-```text
-Raw BDBV2026 Sitrep Data
-            │
-            ▼
-data preparation from Sitrep.ipynb
-            │
-            ▼
-insp_smoothed_incidence.csv
-            │
-            ▼
-Ebola_SEIDdIndFR_Notebook.ipynb
-            │
-            ▼
-Model Calibration
-            │
-            ▼
-Forecasts & Epidemiological Analysis
 
 
